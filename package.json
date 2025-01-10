@@ -1,0 +1,19 @@
+{
+  "name": "product_details_scrapping",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Testing this component and building it for future usage.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gnani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "nodemon": "^3.1.9",
+    "puppeteer": "^23.11.1"
+  }
+}
